@@ -17,7 +17,18 @@ Database Management:
 
 MySQL, PostgreSQL
 Version Control & Deployment:
-
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaselmakyy&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaselmakyy&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaselmakyy&theme=github_dark&show_icons=true" />
+  </a>
+</div>
 Git, GitHub, Docker, CI/CD pipelines
 🌱 What I'm Currently Learning
 Enhancing my skills in Flutter for mobile app development.
