@@ -29,6 +29,8 @@ Version Control & Deployment:
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaselmakyy&theme=github_dark&show_icons=true" />
   </a>
 </div>
+<br>
+![](https://github-profile-trophy.vercel.app/?username=oussamaroui&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 Git, GitHub, Docker, CI/CD pipelines
 🌱 What I'm Currently Learning
 Enhancing my skills in Flutter for mobile app development.
