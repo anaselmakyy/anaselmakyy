@@ -30,7 +30,11 @@ Version Control & Deployment:
   </a>
 </div>
 <br>
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=anaselmakyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
 Git, GitHub, Docker, CI/CD pipelines
 🌱 What I'm Currently Learning
 Enhancing my skills in Flutter for mobile app development.
