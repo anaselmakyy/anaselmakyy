@@ -115,7 +115,7 @@
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 <div align="center">
-  <a href="[https://linkedin.com/in/anaselmakyy](https://www.linkedin.com/in/anas-el-maky-360257262/)">
+  <a href="https://linkedin.com/in/anaselmakyy](https://www.linkedin.com/in/anas-el-maky-360257262/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/anaselmakyy">
