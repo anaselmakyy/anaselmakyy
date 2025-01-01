@@ -15,11 +15,7 @@
 </p>
 
 <!-- About Me Section -->
-[previous sections remain the same...]
-
-<!-- About Me Section -->
-<details>
-<summary>👨‍💻 About Me</summary>
+## 👨‍💻 About Me
 ```typescript
 const elMakyAnas = {
     fullName: "El Maky Anas",
@@ -30,14 +26,6 @@ const elMakyAnas = {
         mobile: ["Flutter", "React Native"],
         frontend: ["React.js", "Next.js", "Vue.js"],
         backend: ["Node.js", "Express", "PHP"],
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        design: ["Figma", "Adobe XD", "Sketch"]
-    }
-};
-```
-</details>
-
-[rest of the sections remain the same...]    backend: ["Node.js", "Express", "PHP"],
         database: ["MongoDB", "MySQL", "PostgreSQL"],
         design: ["Figma", "Adobe XD", "Sketch"]
     }
