@@ -1,50 +1,80 @@
-Hi there, I'm El Maky Anas 👋
-I’m a Full Stack Developer with a passion for building efficient, scalable, and user-centric web and mobile applications. With expertise in React, Laravel, Angular, and Flutter, I specialize in delivering high-quality solutions tailored to meet the needs of users and businesses alike.
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
-🛠️ Technologies & Tools
-Frontend Development:
+<!-- Animated Greeting -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Welcome+to+my+GitHub!;I'm+[Your+Name];Full+Stack+Developer;&center=true&size=30">
+</h1>
 
-React, Angular, Tailwind CSS
-HTML5, CSS3, JavaScript (ES6+)
-Backend Development:
+<!-- About Me Section -->
+## 💫 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[Your Name]"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["en_US", "Your Other Languages"]
+        self.code = ["Python", "JavaScript", "Java", "Your Skills"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's connect and build something amazing together!")
 
-Laravel, Node.js
-RESTful APIs, Authentication (JWT, OAuth)
-Mobile Development:
+me = Developer()
+me.say_hi()
+```
 
-Flutter (Dart)
-Database Management:
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+</p>
 
-MySQL, PostgreSQL
-Version Control & Deployment:
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaselmakyy&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <!-- Add more badges for your tech stack -->
+</p>
+
+<!-- Activity Graph -->
+## 📈 Activity Graph
+[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=redical)](https://github.com/YourGitHubUsername)
+
+<!-- Projects Section -->
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1&theme=radical" />
   </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaselmakyy&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  <a href="https://github.com/YourGitHubUsername/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=radical" />
   </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaselmakyy&theme=github_dark&show_icons=true" />
+</p>
+
+<!-- Connect with Me -->
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YourProfile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-<br>
-## 🏆 GitHub Trophies
+  <a href="https://twitter.com/YourHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <!-- Add more social media badges -->
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=anaselmakyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-<br>
-Git, GitHub, Docker, CI/CD pipelines
-🌱 What I'm Currently Learning
-Enhancing my skills in Flutter for mobile app development.
-Exploring cloud technologies and serverless architecture.
-
-🎯 My Goals
-Continue improving my skills in mobile development (Flutter).
-Contribute to open-source projects and collaborate with developers worldwide.
-Build impactful applications that solve real-world problems.
-📬 Get In Touch
-Email: anasmakyy@gmail.com
-LinkedIn: linkedin.com/in/anasmakyy
-Feel free to reach out for collaboration, job opportunities, or just to connect! Let’s build something amazing together.
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
