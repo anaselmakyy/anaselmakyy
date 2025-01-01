@@ -103,10 +103,7 @@
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/anaselmakyy/anaselmakyy/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
+
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
