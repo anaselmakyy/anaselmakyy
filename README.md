@@ -115,13 +115,13 @@
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/anaselmakyy">
+  <a href="[https://linkedin.com/in/anaselmakyy](https://www.linkedin.com/in/anas-el-maky-360257262/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/anaselmakyy">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:contact@anaselmakyy.dev">
+  <a href="mailto:anasmakyy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://anaselmakyy.dev">
