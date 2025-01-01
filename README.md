@@ -14,30 +14,34 @@
   <img src="https://img.shields.io/github/followers/anaselmakyy?style=for-the-badge&color=a82da8" alt="Followers">
 </p>
 
+<!-- GitHub Trophies -->
+<div align="center">
+  
+  ### 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=anaselmakyy&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
+</div>
+
 <!-- About Me Section -->
-## 👨‍💻 About Me
-```typescript
-const elMakyAnas = {
-    fullName: "El Maky Anas",
-    role: ["Full Stack Developer", "Mobile Developer", "UI/UX Designer"],
-    currentFocus: "Building innovative digital solutions",
-    passions: ["Clean Code", "Responsive Design", "User Experience"],
-    techStack: {
-        mobile: ["Flutter", "React Native"],
-        frontend: ["React.js", "Next.js", "Vue.js"],
-        backend: ["Node.js", "Express", "PHP"],
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        design: ["Figma", "Adobe XD", "Sketch"]
-    }
-};
-```
+<details>
+<summary>👨‍💻 About Me</summary>
+<br>
+<p>
+  I'm a passionate Full Stack Developer, Mobile Developer, and UI/UX Designer with a keen eye for detail and a love for creating seamless user experiences. I specialize in building robust web applications and beautiful mobile apps while ensuring excellent user interface design.
+</p>
+
+- 🔭 I'm currently working on innovative web and mobile solutions
+- 🌱 I'm constantly learning and staying up-to-date with the latest technologies
+- 👯 I'm looking to collaborate on interesting projects
+- 💬 Ask me about Full Stack Development, Mobile Development, or UI/UX Design
+</details>
 
 <!-- GitHub Stats -->
 <details>
 <summary>📊 GitHub Statistics</summary>
+<br>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaselmakyy&show_icons=true&count_private=true&hide_border=true&title_color=a82da8&icon_color=a82da8&text_color=c9d1d9&bg_color=0d1117" alt="El Maky Anas GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaselmakyy&layout=compact&hide_border=true&title_color=a82da8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaselmakyy&show_icons=true&count_private=true&hide_border=true&title_color=a82da8&icon_color=a82da8&text_color=c9d1d9&bg_color=0d1117" alt="El Maky Anas GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anaselmakyy&layout=compact&hide_border=true&title_color=a82da8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -49,37 +53,37 @@ const elMakyAnas = {
 ## 🛠️ Technical Stack
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </div>
 
 <!-- Activity Graph -->
@@ -89,12 +93,23 @@ const elMakyAnas = {
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/anaselmakyy/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anaselmakyy&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/anaselmakyy/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anaselmakyy&repo=project2&theme=radical&hide_border=true" />
-  </a>
+  <p>🚧 Currently working on exciting projects! Check back soon for updates. 🚧</p>
+</div>
+
+<!-- Coding Quote -->
+<div align="center">
+  
+  ### 💭 Programming Quote of the Day
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaselmakyy/anaselmakyy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaselmakyy/anaselmakyy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anaselmakyy/anaselmakyy/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- Connect Section -->
