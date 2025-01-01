@@ -5,7 +5,7 @@
 
 <!-- Animated Greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+my+Digital+Space!;BuildBuilding+Beautiful+%26+Functional+Apps;Designing+Seamless+User+Experiences&center=true&size=27&color=a82da8">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+my+Digital+Space!;BuildBBuilding+Beautiful+%26+Functional+Apps;Designing+Seamless+User+Experiences&center=true&size=27&color=a82da8">
 </div>
 
 <!-- Profile Views and GitHub followers -->
