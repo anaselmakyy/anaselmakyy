@@ -37,7 +37,7 @@
 
 <!-- GitHub Stats -->
 <div>
-### 👨‍💻 GitHub Statistics
+
 <br>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaselmakyy&show_icons=true&count_private=true&hide_border=true&title_color=a82da8&icon_color=a82da8&text_color=c9d1d9&bg_color=0d1117" alt="El Maky Anas GitHub Stats" /> 
