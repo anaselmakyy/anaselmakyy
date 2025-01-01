@@ -36,7 +36,7 @@
 </details>
 
 <!-- GitHub Stats -->
-<details>
+<div>
 <summary>📊 GitHub Statistics</summary>
 <br>
 <div align="center">
@@ -47,7 +47,7 @@
 <div align="center">
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anaselmakyy&theme=radical&hide_border=true&background=0D1117&stroke=a82da8&ring=a82da8&fire=EEFF00&currStreakLabel=a82da8"/>
 </div>
-</details>
+</div>
 
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
