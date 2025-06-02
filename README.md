@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=El%20Maky%20Anas&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20Developer%20|%20UI/UX%20Designer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=El%20Maky%20Anas&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Mobile%20Developer%20>
 </p>
 
 <!-- Animated Greeting -->
@@ -26,13 +26,13 @@
 <summary>👨‍💻 About Me</summary>
 <br>
 <p>
-  I'm a passionate Full Stack Developer, Mobile Developer, and UI/UX Designer with a keen eye for detail and a love for creating seamless user experiences. I specialize in building robust web applications and beautiful mobile apps while ensuring excellent user interface design.
+  I'm a passionate Full Stack Developer, Mobile Developer,  with a keen eye for detail and a love for creating seamless user experiences. I specialize in building robust web applications and beautiful mobile apps while ensuring excellent user interface design.
 </p>
 
 - 🔭 I'm currently working on innovative web and mobile solutions
 - 🌱 I'm constantly learning and staying up-to-date with the latest technologies
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Full Stack Development, Mobile Development, or UI/UX Design
+- 💬 Ask me about Full Stack Development, Mobile Development
 </details>
 
 <!-- GitHub Stats -->
